@@ -35,3 +35,6 @@ A desktop application for face recognition using the ORL (Olivetti Research Lab)
 6. Click "Test" to run recognition
 7. Click "Generate Statistics" to run full evaluation
 
+<img width="1920" height="1080" alt="2026-04-23-144548_hyprshot" src="https://github.com/user-attachments/assets/452592dc-f3ee-4a7f-b59f-ce125c973f63" />
+<img width="1920" height="1080" alt="2026-04-23-144538_hyprshot" src="https://github.com/user-attachments/assets/137a5bda-a20c-4100-bbe6-ba238e7c96d4" />
+
