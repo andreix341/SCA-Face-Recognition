@@ -7,9 +7,9 @@
         112,
         92
     ],
-    "path_ds": "C:/Users/pumkin/Desktop/asd/y3/SCA/ORL",
-    "path_test": "C:/Users/pumkin/Desktop/asd/y3/SCA/ORL/s4/10.pgm",
-    "norm": "Manhattan",
-    "algorithm": "kNN",
-    "k": 3
+    "path_ds": "/home/pumk/projects/asd/y3s1/SCA/ORL",
+    "path_test": "/home/pumk/projects/asd/y3s1/SCA/ORL/s12/9.pgm",
+    "norm": "Euclidian",
+    "algorithm": "NN",
+    "k": 1
 }
