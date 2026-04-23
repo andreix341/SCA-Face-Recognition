@@ -1,0 +1,15 @@
+{
+    "nr_pers": 40,
+    "nr_pictures_pers": 10,
+    "nr_pictures_train": "8",
+    "nr_pictures_test": "2",
+    "resolution": [
+        112,
+        92
+    ],
+    "path_ds": "C:/Users/pumkin/Desktop/asd/y3/SCA/ORL",
+    "path_test": "C:/Users/pumkin/Desktop/asd/y3/SCA/ORL/s4/10.pgm",
+    "norm": "Manhattan",
+    "algorithm": "kNN",
+    "k": 3
+}
